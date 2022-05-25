@@ -1,5 +1,11 @@
 let songs = [
     {
+        name: 'its my life -',
+        path: 'musics/Bon Jovi - Its My Life.mp3',
+        artist: 'bon jovi',
+        cover: 'images/cover 4.png'
+    },
+    {
         name: 'song 1',
         path: 'musics/Song 1.mp3',
         artist: 'artist 1',
